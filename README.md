@@ -1,16 +1,36 @@
-## Hi there 👋
-Eu tenho 17 anos e estou atualmente aprendendo Java Script, HTML e CSS. Estou no terceiro ano do ensino médio e cursando um curso técnico de Desenvolvimento de Sistemas, criei esta conta para compartilhar meus avanços neste ramo. Tenho uma escrita de inglês intermediária.
-<!--
-**RafaelRossau/RafaelRossau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Olá, eu sou o Rafael!
+👨‍💻 Jovem desenvolvedor em crescimento
+Tenho 17 anos, estou terminando o ensino médio e atualmente faço o curso técnico de Desenvolvimento de Sistemas no Senac Gravataí.
+Programar se tornou uma das minhas maiores paixões, e estou sempre buscando aprender mais, criar projetos e evoluir minhas habilidades.
 
-Here are some ideas to get you started:
+🚀 Tecnologias que estudo e utilizo
+💛 JavaScript
+Minha linguagem principal — onde tenho maior experiência e desenvolvo a maior parte dos meus projetos.
+🌐 HTML
+Conhecimento sólido na criação de estruturas de páginas e interfaces.
+🎨 CSS
+Um pouco de experiência para estilizar páginas e dar mais vida aos projetos.
+🗄 Banco de Dados
+Trabalho com MySQL e manipulação de dados para aplicações web.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Java Script, HTML, CSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+🎒 Minha jornada
+
+
+👦 17 anos
+
+
+🎓 Finalizando o ensino médio
+
+
+💻 Cursando Técnico em Desenvolvimento de Sistemas – Senac Gravataí
+
+
+🧠 Aprendendo todos os dias e criando projetos para evoluir ainda mais
+
+
+
+🎯 Objetivo
+Me tornar um desenvolvedor cada vez mais completo e profissional, sempre buscando novos desafios, novas ideias e novas oportunidades.
+
+✨ Obrigado por visitar meu perfil!
+Sinta-se à vontade para acompanhar meus projetos, contribuir ou apenas dizer um “oi”! 😄
