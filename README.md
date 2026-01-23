@@ -19,7 +19,7 @@ Trabalho com MySQL e manipulação de dados para aplicações web.
 👦 17 anos
 
 
-🎓 Finalizando o ensino médio
+🎓 Ensino Médio COMPLETO
 
 
 💻 Cursando Técnico em Desenvolvimento de Sistemas – Senac Gravataí
