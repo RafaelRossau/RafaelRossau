@@ -1,6 +1,6 @@
 🌟 Olá, eu sou o Rafael!
 👨‍💻 Jovem desenvolvedor em crescimento
-Tenho 17 anos, estou terminando o ensino médio e atualmente faço o curso técnico de Desenvolvimento de Sistemas no Senac Gravataí.
+Tenho 17 anos, eu terminei o ensino médio e atualmente faço o curso técnico de Desenvolvimento de Sistemas no Senac Gravataí.
 Programar se tornou uma das minhas maiores paixões, e estou sempre buscando aprender mais, criar projetos e evoluir minhas habilidades.
 
 🚀 Tecnologias que estudo e utilizo
@@ -16,7 +16,7 @@ Trabalho com MySQL e manipulação de dados para aplicações web.
 🎒 Minha jornada
 
 
-👦 17 anos
+👦 18 anos
 
 
 🎓 Ensino Médio COMPLETO
